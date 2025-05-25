@@ -39,3 +39,7 @@ This approach helps model how a real-world trader or automated system might cont
 - backtesting.py (Backtesting Framework)
 - pandas, numpy for data manipulation
 - tqdm for progress bars
+
+
+abhinav00345@gmail.com
+abhinav00345@gmail.com
